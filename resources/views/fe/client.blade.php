@@ -2,8 +2,8 @@
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5 mb-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
-                <h5 class="fw-bold text-primary text-uppercase">Client Kami</h5>
-                <h1 class="mb-0">Bersama Client, Kami Tumbuh dan Berkembang</h1>
+                <h5 class="fw-bold text-primary text-uppercase">Our Client</h5>
+                <h1 class="mb-0">Together with our clients, we grow and develop</h1>
             </div>
             <div class="bg-white mt-5 client-carousel-container">
                 <div class="client-carousel-top">

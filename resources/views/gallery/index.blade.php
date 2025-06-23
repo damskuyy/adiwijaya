@@ -3,17 +3,17 @@
     <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
         <div class="row py-5">
             <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                <h1 class="display-4 text-white animated zoomIn">Galeri</h1>
+                <h1 class="display-4 text-white animated zoomIn">Gallery</h1>
                 <a href="/home" class="h5 text-white">Home</a>
                 <i class="far fa-circle text-white px-2"></i>
-                <a href="/gallery" class="h5 text-white">Galeri</a>
+                <a href="/gallery" class="h5 text-white">Gallery</a>
             </div>
         </div>
     </div>
     <div class="container py-5">
         <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
-            <h5 class="fw-bold text-primary text-uppercase">Galeri</h5>
-            <h1 class="mb-0">Dokumentasi Proyek & Aktivitas Fabrikasi Terbaik Kami</h1>
+            <h5 class="fw-bold text-primary text-uppercase">Gallery</h5>
+            <h1 class="mb-0">Our Best Project Documentation & Fabrication Activities</h1>
         </div>
         <div class="row g-4">
             <div class="col-md-4">
@@ -86,6 +86,49 @@
                     <img src="{{ asset('fe/img/gallery15.jpg') }}" class="card-img-top" alt="Gallery 6">
                 </div>
             </div> --}}
+        </div>
+    </div>
+    <div class="container py-5">
+        <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+            <h5 class="fw-bold text-primary text-uppercase">Gallery</h5>
+            <h1 class="mb-0">Awards We Have Received So Far</h1>
+        </div>
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/sertifikat1.jpg') }}" class="card-img-top" alt="Gallery 1">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/sertifikat2.jpg') }}" class="card-img-top" alt="Gallery 1">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/sertifikat3.jpg') }}" class="card-img-top" alt="Gallery 1">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/sertifikat5.png') }}" class="card-img-top" alt="Gallery 1">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/sertifikat4.png') }}" class="card-img-top" alt="Gallery 1">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/sertifikat6.png') }}" class="card-img-top" alt="Gallery 1">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/sertifikat7.png') }}" class="card-img-top" alt="Gallery 1">
+                </div>
+            </div>
         </div>
     </div>
 @endsection

@@ -7,7 +7,7 @@
                 <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                     <div class="p-3" style="max-width: 900px;">
                         <h5 class="text-white text-uppercase mb-3 animated slideInDown">Adiwijaya Mega Tama</h5>
-                        <h1 class="display-1 text-white mb-md-4 animated zoomIn">Spesialis Machining, Fabrikasi, dan Konstruksi Komponen Mesin Industri</h1>
+                        <h1 class="display-1 text-white mb-md-4 animated zoomIn">Specialist in Machining, Fabrication, and Construction of Industrial Machine Components</h1>
                         {{-- <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
                         <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a> --}}
                     </div>
@@ -18,7 +18,7 @@
                 <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                     <div class="p-3" style="max-width: 900px;">
                         <h5 class="text-white text-uppercase mb-3 animated slideInDown">Adiwijaya Mega Tama</h5>
-                        <h1 class="display-1 text-white mb-md-4 animated zoomIn">Mitra Andal untuk Solusi Industri dan Konstruksi Mesin</h1>
+                        <h1 class="display-1 text-white mb-md-4 animated zoomIn">A Reliable Partner for Industrial and Construction Machinery Solutions</h1>
                         {{-- <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
                         <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a> --}}
                     </div>

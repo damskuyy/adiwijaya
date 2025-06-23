@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>PT. Adiwijaya Megatama</title>
+    <title>PT. Adiwijaya Mega Tama</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -52,14 +52,15 @@
     <!-- Topbar Start -->
     <div class="container-fluid bg-dark px-5 d-none d-lg-block">
         <div class="row gx-0">
-            <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
+            <div class="col-lg-10 text-center text-lg-start mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <a class="me-3 text-light" href="https://maps.app.goo.gl/hPiJ73FECVgnbJqFA" target="_blank"><i class="fa fa-map-marker-alt me-2"></i>Jl. Pahlawan No. 262 Sanja - Bogor</a>
+                    <a class="me-3 text-light" href="https://wa.me/6281128021212" target="_blank"><i class="fa fa-phone-alt me-2"></i>+62 811-2802-1212</a>
                     <a class="me-3 text-light" href="https://wa.me/6285643992099" target="_blank"><i class="fa fa-phone-alt me-2"></i>+62 856-4399-2099</a>
                     <a class="text-light" href="mailto:adiwijayamegatama@gmail.com" ><i class="fa fa-envelope-open me-2"></i>adiwijayamegatama@gmail.com</a>
                 </div>
             </div>
-            <div class="col-lg-4 text-center text-lg-end">
+            <div class="col-lg-2 text-center text-lg-end">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.instagram.com/adiwijaya.teknik/" target="_blank"><i class="fab fa-instagram fw-normal"></i></a>
                     <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.tokopedia.com/adiwijayateknik" target="_blank"><i class="fas fa-shopping-cart"></i></a>
@@ -102,12 +103,12 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0">
                     <a href="/home" class="nav-item nav-link {{ Request::is('home') ? 'active' : '' }}">Home</a>
-                    <a href="/about" class="nav-item nav-link {{ Request::is('about') ? 'active' : '' }}">Tentang</a>
-                    <a href="/services" class="nav-item nav-link {{ Request::is('services') ? 'active' : '' }}">Layanan</a>
-                    <a href="/product" class="nav-item nav-link {{ Request::is('product') ? 'active' : '' }}">Produk</a>
-                    <a href="/tools" class="nav-item nav-link {{ Request::is('tools') ? 'active' : '' }}">Alat</a>
-                    <a href="/gallery" class="nav-item nav-link {{ Request::is('gallery') ? 'active' : '' }}">Galeri</a>
-                    <a href="/contact" class="nav-item nav-link {{ Request::is('contact') ? 'active' : '' }}">Kontak</a>
+                    <a href="/about" class="nav-item nav-link {{ Request::is('about') ? 'active' : '' }}">About</a>
+                    <a href="/services" class="nav-item nav-link {{ Request::is('services') ? 'active' : '' }}">Services</a>
+                    <a href="/product" class="nav-item nav-link {{ Request::is('product') ? 'active' : '' }}">Product</a>
+                    <a href="/tools" class="nav-item nav-link {{ Request::is('tools') ? 'active' : '' }}">Tools</a>
+                    <a href="/gallery" class="nav-item nav-link {{ Request::is('gallery') ? 'active' : '' }}">Gallery</a>
+                    <a href="/contact" class="nav-item nav-link {{ Request::is('contact') ? 'active' : '' }}">Contact</a>
                     {{-- <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
                         <div class="dropdown-menu m-0">
@@ -756,9 +757,9 @@
                 <div class="col-lg-4 col-md-6 footer-about">
                     <div class="d-flex flex-column align-items-center justify-content-center text-center h-100 bg-primary p-4">
                         <a href="/home" class="navbar-brand">
-                            <h1 class="m-0 text-white"><img src="{{ asset('fe/img/adiwijaya.png') }}" alt="" style="height: 80px;"/></h1>
+                            <h1 class="m-0 text-white"><img src="{{ asset('fe/img/adiwijaya.png') }}" alt="" style="height: 65px;"/></h1>
                         </a>
-                        <p class="mt-3 mb-4">PT. Adiwijaya Mega Tama bergerak dibidang pengerjaan logam khususnya Machining, Fabrikasi, dan Konstruksi pembuatan dan reparasi komponen mesin industri.</p>
+                        <p class="mt-3 mb-4">PT. Adiwijaya Mega Tama is engaged in metalworking, specifically machining, fabrication, and construction for the manufacture and repair of industrial machine components.</p>
                     </div>
                 </div>
                 <div class="col-lg-8 col-md-6">
@@ -774,6 +775,10 @@
                             <div class="d-flex mb-2">
                                 <i class="bi bi-envelope-open text-primary me-2"></i>
                                 <a href="mailto:adiwijayamegatama@gmail.com" target="_blank" class="mb-0 text-light">adiwijayamegatama@gmail.com</a>
+                            </div>
+                            <div class="d-flex mb-2">
+                                <i class="bi bi-telephone text-primary me-2"></i>
+                                <a class="mb-0 text-light" href="https://wa.me/6281128021212" target="_blank">+62 811-2802-1212</a>
                             </div>
                             <div class="d-flex mb-2">
                                 <i class="bi bi-telephone text-primary me-2"></i>
@@ -805,12 +810,12 @@
                             </div>
                             <div class="link-animated d-flex flex-column justify-content-start">
                                 <a class="text-light mb-2" href="/home"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
-                                <a class="text-light mb-2" href="/about"><i class="bi bi-arrow-right text-primary me-2"></i>Tentang</a>
-                                <a class="text-light mb-2" href="/services"><i class="bi bi-arrow-right text-primary me-2"></i>Layanan</a>
-                                <a class="text-light mb-2" href="/product"><i class="bi bi-arrow-right text-primary me-2"></i>Produk</a>
-                                <a class="text-light mb-2" href="/tools"><i class="bi bi-arrow-right text-primary me-2"></i>Alat</a>
-                                <a class="text-light mb-2" href="/gallery"><i class="bi bi-arrow-right text-primary me-2"></i>Galeri</a>
-                                <a class="text-light" href="/contact"><i class="bi bi-arrow-right text-primary me-2"></i>Kontak</a>
+                                <a class="text-light mb-2" href="/about"><i class="bi bi-arrow-right text-primary me-2"></i>About</a>
+                                <a class="text-light mb-2" href="/services"><i class="bi bi-arrow-right text-primary me-2"></i>Services</a>
+                                <a class="text-light mb-2" href="/product"><i class="bi bi-arrow-right text-primary me-2"></i>Product</a>
+                                <a class="text-light mb-2" href="/tools"><i class="bi bi-arrow-right text-primary me-2"></i>Tools</a>
+                                <a class="text-light mb-2" href="/gallery"><i class="bi bi-arrow-right text-primary me-2"></i>Gallery</a>
+                                <a class="text-light" href="/contact"><i class="bi bi-arrow-right text-primary me-2"></i>Contact</a>
                             </div>
                         </div>
                     </div>

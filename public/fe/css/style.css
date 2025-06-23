@@ -11,10 +11,15 @@
 .spinner {
     width: 40px;
     height: 40px;
-    background: var(--primary);
-    margin: 100px auto;
-    -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
-    animation: sk-rotateplane 1.2s infinite ease-in-out;
+    background: url('../img/logo-adiwijaya.png') center center no-repeat;
+    background-size: contain;
+    border: none;
+    /* -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out; */
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    100% { transform: rotate(360deg); }
 }
 
 @-webkit-keyframes sk-rotateplane {

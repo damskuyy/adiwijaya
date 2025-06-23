@@ -3,28 +3,39 @@
     <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-4 text-white animated zoomIn">Kontak Kami</h1>
+                    <h1 class="display-4 text-white animated zoomIn">Contact Us</h1>
                     <a href="/home" class="h5 text-white">Home</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="/contact" class="h5 text-white">Kontak</a>
+                    <a href="/contact" class="h5 text-white">Contact</a>
                 </div>
             </div>
         </div>
         <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
-                <h5 class="fw-bold text-primary text-uppercase">Kontak Kami</h5>
-                <h1 class="mb-0">Jika Anda memiliki pertanyaan, silakan hubungi kami.</h1>
+                <h5 class="fw-bold text-primary text-uppercase">Contact Us</h5>
+                <h1 class="mb-0">If you have any questions, please contact us</h1>
             </div>
             <div class="row g-4 mb-5 justify-content-center">
+                <div class="col-lg-4 col-md-6" >
+                    <a href="https://wa.me/6281128021212" target="_blank" class="text-decoration-none">
+                        <div class="card border-0 shadow-sm h-100 text-center p-3 hover-animate">
+                            <div class="mx-auto mb-3 bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
+                                <i class="fa fa-phone-alt text-white fs-4"></i>
+                            </div>
+                            <h5 class="mb-2">Contact us to ask any questions</h5>
+                            <h4 class="text-primary mb-0">+62 811-2802-1212</h4>
+                        </div>
+                    </a>
+                </div>
                 <div class="col-lg-4 col-md-6" >
                     <a href="https://wa.me/6285643992099" target="_blank" class="text-decoration-none">
                         <div class="card border-0 shadow-sm h-100 text-center p-3 hover-animate">
                             <div class="mx-auto mb-3 bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
                                 <i class="fa fa-phone-alt text-white fs-4"></i>
                             </div>
-                            <h5 class="mb-2">Hubungi kami untuk menanyakan apa pun</h5>
-                            <h4 class="text-primary mb-0">+62 856 4399 2099</h4>
+                            <h5 class="mb-2">Contact us to ask any questions</h5>
+                            <h4 class="text-primary mb-0">+62 856-4399-2099</h4>
                         </div>
                     </a>
                 </div>
@@ -34,18 +45,19 @@
                             <div class="mx-auto mb-3 bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
                                 <i class="fa fa-envelope-open text-white fs-4"></i>
                             </div>
-                            <h5 class="mb-2">Email untuk menanyakan apa pun</h5>
+                            <h5 class="mb-2">Email to ask anything</h5>
                             <h4 class="text-primary mb-0">adiwijayamegatama@gmail.com</h4>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6" >
+                <div class="col-lg-4 col-md-6" ></div>
                     <a href="https://maps.app.goo.gl/hPiJ73FECVgnbJqFA" target="_blank" class="text-decoration-none">
                         <div class="card border-0 shadow-sm h-100 text-center p-3 hover-animate" >
                             <div class="mx-auto mb-3 bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
                                 <i class="fa fa-map-marker-alt text-white fs-4"></i>
                             </div>
-                            <h5 class="mb-2">Kunjungi kantor kami</h5>
+                            <h5 class="mb-2">Visit our office</h5>
                             <h4 class="text-primary mb-0">Jl. Pahlawan No. 262 Sanja, Citeureup - Bogor</h4>
                         </div>
                     </a>
@@ -67,19 +79,19 @@
                         @csrf
                         <div class="row g-3">
                             <div class="col-md-6">
-                                <input type="text" name="name" class="form-control border-0 bg-light px-4" placeholder="Nama Anda" style="height: 55px;" required>
+                                <input type="text" name="name" class="form-control border-0 bg-light px-4" placeholder="Your Name" style="height: 55px;" required>
                             </div>
                             <div class="col-md-6">
-                                <input type="email" name="email" class="form-control border-0 bg-light px-4" placeholder="Email Anda" style="height: 55px;" required>
+                                <input type="email" name="email" class="form-control border-0 bg-light px-4" placeholder="Your Email" style="height: 55px;" required>
                             </div>
                             <div class="col-12">
                                 <input type="text" name="subject" class="form-control border-0 bg-light px-4" placeholder="Subject" style="height: 55px;" required>
                             </div>
                             <div class="col-12">
-                                <textarea name="message" class="form-control border-0 bg-light px-4 py-3" rows="4" placeholder="Pesan" required></textarea>
+                                <textarea name="message" class="form-control border-0 bg-light px-4 py-3" rows="4" placeholder="Message" required></textarea>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-primary w-100 py-3" type="submit">Kirim Pesan</button>
+                                <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
                             </div>
                         </div>
                     </form>
