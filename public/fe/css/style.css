@@ -655,7 +655,7 @@ h6,
 
 /* CSS: Samakan ukuran semua gambar */
 img {
-    width: auto;
+    max-width: 100%;
     height: auto;
     object-fit: contain;
     object-position: center;
@@ -665,17 +665,20 @@ img {
 }
 
 /* Batasi ukuran logo pada mobile */
-.navbar-brand img,
-.footer-about .navbar-brand img {
-    width: auto;
-    max-width: 200px; /* atau 180px, sesuaikan */
-    height: auto;
-    display: inline-block;
+.navbar-brand {
+    max-width: 220px;
 }
 
-@media (min-width: 577px) {
-    .navbar-brand img,
-    .footer-about .navbar-brand img {
-        max-width: 320px; /* desktop */
+@media (max-width: 576px) {
+    .navbar-brand {
+        max-width: 150px;
     }
+}
+
+.navbar-brand img,
+.footer-about .navbar-brand img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
