@@ -80,3 +80,7 @@
         </div>
     </div>
 @endsection
+@section('client')
+    @include('fe.client')
+    
+@endsection

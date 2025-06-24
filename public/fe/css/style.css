@@ -266,7 +266,7 @@ h6,
 
 /* Carousel image fit to carousel container */
 #header-carousel .carousel-item {
-    height: 650px; /* Atur tinggi sesuai kebutuhan */
+    height: 750px; /* Atur tinggi sesuai kebutuhan */
     min-height: 300px;
     position: relative;
 }
