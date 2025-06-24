@@ -668,14 +668,14 @@ img {
 .navbar-brand img,
 .footer-about .navbar-brand img {
     width: auto;
-    max-width: 500px;   /* Perbesar ukuran maksimal logo */
+    max-width: 200px; /* atau 180px, sesuaikan */
     height: auto;
     display: inline-block;
 }
 
-@media (max-width: 576px) {
+@media (min-width: 577px) {
     .navbar-brand img,
     .footer-about .navbar-brand img {
-        max-width: 230px; /* Perbesar juga di mobile */
+        max-width: 320px; /* desktop */
     }
 }
