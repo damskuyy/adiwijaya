@@ -666,12 +666,12 @@ img {
 
 /* Batasi ukuran logo pada mobile */
 .navbar-brand {
-    max-width: 220px;
+    max-width: 450px;
 }
 
 @media (max-width: 576px) {
     .navbar-brand {
-        max-width: 150px;
+        max-width: 200px;
     }
 }
 
