@@ -160,6 +160,83 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
+                    <div class="team-item bg-light rounded overflow-hidden">
+                        <div class="team-img position-relative overflow-hidden">
+                            <img class="img-fluid w-100" src="/img/gerobak.jpg" alt="">
+                        </div>
+                        <div class="text-center py-4">
+                            <h4 class="text-primary">Concrete Cart (Gerobak Beton)</h4>
+                            {{-- <p class="text-uppercase m-0">Designation</p> --}}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
+                    <div class="team-item bg-light rounded overflow-hidden">
+                        <div class="team-img position-relative overflow-hidden">
+                            <img class="img-fluid w-100" src="/img/lemari.png" alt="">
+                        </div>
+                        <div class="text-center py-4">
+                            <h4 class="text-primary">Stainless Steel Cabinet</h4>
+                            {{-- <p class="text-uppercase m-0">Designation</p> --}}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
+                    <div class="team-item bg-light rounded overflow-hidden">
+                        <div class="team-img position-relative overflow-hidden">
+                            <img class="img-fluid w-100" src="/img/pallet.png" alt="">
+                        </div>
+                        <div class="text-center py-4">
+                            <h4 class="text-primary">Steel Pallet</h4>
+                            {{-- <p class="text-uppercase m-0">Designation</p> --}}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
+                    <div class="team-item bg-light rounded overflow-hidden">
+                        <div class="team-img position-relative overflow-hidden">
+                            <img class="img-fluid w-100" src="/img/rak.png" alt="">
+                        </div>
+                        <div class="text-center py-4">
+                            <h4 class="text-primary">Stainless Rack</h4>
+                            {{-- <p class="text-uppercase m-0">Designation</p> --}}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
+                    <div class="team-item bg-light rounded overflow-hidden">
+                        <div class="team-img position-relative overflow-hidden">
+                            <img class="img-fluid w-100" src="/img/sending.png" alt="">
+                        </div>
+                        <div class="text-center py-4">
+                            <h4 class="text-primary">Sending Machine</h4>
+                            {{-- <p class="text-uppercase m-0">Designation</p> --}}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
+                    <div class="team-item bg-light rounded overflow-hidden">
+                        <div class="team-img position-relative overflow-hidden">
+                            <img class="img-fluid w-100" src="/img/headex.png" alt="">
+                        </div>
+                        <div class="text-center py-4">
+                            <h4 class="text-primary">Head Exchanger</h4>
+                            {{-- <p class="text-uppercase m-0">Designation</p> --}}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
+                    <div class="team-item bg-light rounded overflow-hidden">
+                        <div class="team-img position-relative overflow-hidden">
+                            <img class="img-fluid w-100" src="/img/screen.jpg" alt="">
+                        </div>
+                        <div class="text-center py-4">
+                            <h4 class="text-primary">Screen Drying Rack</h4>
+                            {{-- <p class="text-uppercase m-0">Designation</p> --}}
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

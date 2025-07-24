@@ -115,6 +115,87 @@
                     </div>
                 </div>
             </div>
+            
+        </div>
+        <div class="container py-5">
+            <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+                {{-- <h5 class="fw-bold text-primary text-uppercase">Our Services</h5> --}}
+                <h1 class="mb-0">Our Civil Team Capability</h1>
+            </div>
+            <div class="row g-5">
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-wrench text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Layout Design</h4>
+                        {{-- <p class="m-0">The manufacturing process removes material to form precision components using specialised, controlled machinery</p> --}}
+                        {{-- <a class="btn btn-lg btn-primary rounded" href="">
+                            <i class="bi bi-arrow-right"></i>
+                        </a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-wrench text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Construction Steel Works</h4>
+                        {{-- <p class="m-0">The manufacturing process removes material to form precision components using specialised, controlled machinery</p> --}}
+                        {{-- <a class="btn btn-lg btn-primary rounded" href="">
+                            <i class="bi bi-arrow-right"></i>
+                        </a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-wrench text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Civil Works</h4>
+                        {{-- <p class="m-0">The manufacturing process removes material to form precision components using specialised, controlled machinery</p> --}}
+                        {{-- <a class="btn btn-lg btn-primary rounded" href="">
+                            <i class="bi bi-arrow-right"></i>
+                        </a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-wrench text-white"></i>
+                        </div>
+                        <h4 class="mb-3">ME Building Works</h4>
+                        {{-- <p class="m-0">The manufacturing process removes material to form precision components using specialised, controlled machinery</p> --}}
+                        {{-- <a class="btn btn-lg btn-primary rounded" href="">
+                            <i class="bi bi-arrow-right"></i>
+                        </a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-wrench text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Civil Finishing Works</h4>
+                        {{-- <p class="m-0">The manufacturing process removes material to form precision components using specialised, controlled machinery</p> --}}
+                        {{-- <a class="btn btn-lg btn-primary rounded" href="">
+                            <i class="bi bi-arrow-right"></i>
+                        </a> --}}
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-wrench text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Professional Works</h4>
+                        {{-- <p class="m-0">The manufacturing process removes material to form precision components using specialised, controlled machinery</p> --}}
+                        {{-- <a class="btn btn-lg btn-primary rounded" href="">
+                            <i class="bi bi-arrow-right"></i>
+                        </a> --}}
+                    </div>
+                </div>
+            </div>
             <div class="row justify-content-center mt-5">
                 <div class="col-lg-4 col-md-6 d-flex justify-content-center wow zoomIn" data-wow-delay="0.6s">
                     <a href="https://wa.me/6281128021212" target="_blank">
