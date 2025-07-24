@@ -149,6 +149,17 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
+                    <div class="team-item bg-light rounded overflow-hidden">
+                        <div class="team-img position-relative overflow-hidden">
+                            <img class="img-fluid w-100" src="fe/img/tankfarm.jpg" alt="">
+                        </div>
+                        <div class="text-center py-4">
+                            <h4 class="text-primary">Tank Farm Liquid</h4>
+                            {{-- <p class="text-uppercase m-0">Designation</p> --}}
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

@@ -664,6 +664,19 @@ img {
     margin-right: auto;
 }
 
+.img-feature-wide {
+    position: static !important;
+    width: 100%;
+    max-width: 420px;
+    height: auto !important;
+    left: unset !important;
+    top: unset !important;
+    object-fit: cover;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 /* Batasi ukuran logo pada mobile */
 .navbar-brand {
     max-width: 450px;

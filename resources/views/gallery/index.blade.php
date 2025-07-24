@@ -81,6 +81,51 @@
                     <img src="{{ asset('fe/img/gallery13.jpg') }}" class="card-img-top" alt="Gallery 12">
                 </div>
             </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/gallery18.jpg') }}" class="card-img-top" alt="Gallery 13">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/gallery17.jpg') }}" class="card-img-top" alt="Gallery 14">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/gallery19.jpg') }}" class="card-img-top" alt="Gallery 15">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/gallery24.jpg') }}" class="card-img-top" alt="Gallery 16">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/gallery21.jpg') }}" class="card-img-top" alt="Gallery 17">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/gallery22.jpg') }}" class="card-img-top" alt="Gallery 18">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/gallery23.jpg') }}" class="card-img-top" alt="Gallery 19">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/gallery20.jpg') }}" class="card-img-top" alt="Gallery 20">
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm">
+                    <img src="{{ asset('fe/img/gallery25.jpg') }}" class="card-img-top" alt="Gallery 21">
+                </div>
+            </div>
             {{-- <div class="col-md-4">
                 <div class="card shadow-sm">
                     <img src="{{ asset('fe/img/gallery15.jpg') }}" class="card-img-top" alt="Gallery 6">
