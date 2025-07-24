@@ -42,7 +42,7 @@
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="d-flex align-items-center justify-content-center h-100">
-                        <img src="fe/img/team.png" 
+                        <img src="/img/team.png" 
                                 class="rounded wow zoomIn" 
                                 data-wow-delay="0.9s"
                                 style="max-width: 100%; width: 500px; height: auto; display: block;">

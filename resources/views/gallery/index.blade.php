@@ -18,117 +18,117 @@
         <div class="row g-4">
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery1.png') }}" class="card-img-top" alt="Gallery 1">
+                    <img src="{{ asset('/img/gallery1.png') }}" class="card-img-top" alt="Gallery 1">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery3.png') }}" class="card-img-top" alt="Gallery 2">
+                    <img src="{{ asset('/img/gallery3.png') }}" class="card-img-top" alt="Gallery 2">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery8.png') }}" class="card-img-top" alt="Gallery 3">
+                    <img src="{{ asset('/img/gallery8.png') }}" class="card-img-top" alt="Gallery 3">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery6.png') }}" class="card-img-top" alt="Gallery 4">
+                    <img src="{{ asset('/img/gallery6.png') }}" class="card-img-top" alt="Gallery 4">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery4.png') }}" class="card-img-top" alt="Gallery 5">
+                    <img src="{{ asset('/img/gallery4.png') }}" class="card-img-top" alt="Gallery 5">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery7.png') }}" class="card-img-top" alt="Gallery 6">
+                    <img src="{{ asset('/img/gallery7.png') }}" class="card-img-top" alt="Gallery 6">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery2.png') }}" class="card-img-top" alt="Gallery 7">
+                    <img src="{{ asset('/img/gallery2.png') }}" class="card-img-top" alt="Gallery 7">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery10.png') }}" class="card-img-top" alt="Gallery 8">
+                    <img src="{{ asset('/img/gallery10.png') }}" class="card-img-top" alt="Gallery 8">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery14.jpg') }}" class="card-img-top" alt="Gallery 9">
+                    <img src="{{ asset('/img/gallery14.jpg') }}" class="card-img-top" alt="Gallery 9">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery11.png') }}" class="card-img-top" alt="Gallery 10">
+                    <img src="{{ asset('/img/gallery11.png') }}" class="card-img-top" alt="Gallery 10">
                 </div>
             </div>
             {{-- <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery12.jpg') }}" class="card-img-top" alt="Gallery 6">
+                    <img src="{{ asset('/img/gallery12.jpg') }}" class="card-img-top" alt="Gallery 6">
                 </div>
             </div> --}}
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery9.png') }}" class="card-img-top" alt="Gallery 11">
+                    <img src="{{ asset('/img/gallery9.png') }}" class="card-img-top" alt="Gallery 11">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery13.jpg') }}" class="card-img-top" alt="Gallery 12">
+                    <img src="{{ asset('/img/gallery13.jpg') }}" class="card-img-top" alt="Gallery 12">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery18.jpg') }}" class="card-img-top" alt="Gallery 13">
+                    <img src="{{ asset('/img/gallery18.jpg') }}" class="card-img-top" alt="Gallery 13">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery17.jpg') }}" class="card-img-top" alt="Gallery 14">
+                    <img src="{{ asset('/img/gallery17.jpg') }}" class="card-img-top" alt="Gallery 14">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery19.jpg') }}" class="card-img-top" alt="Gallery 15">
+                    <img src="{{ asset('/img/gallery19.jpg') }}" class="card-img-top" alt="Gallery 15">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery24.jpg') }}" class="card-img-top" alt="Gallery 16">
+                    <img src="{{ asset('/img/gallery24.jpg') }}" class="card-img-top" alt="Gallery 16">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery21.jpg') }}" class="card-img-top" alt="Gallery 17">
+                    <img src="{{ asset('/img/gallery21.jpg') }}" class="card-img-top" alt="Gallery 17">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery22.jpg') }}" class="card-img-top" alt="Gallery 18">
+                    <img src="{{ asset('/img/gallery22.jpg') }}" class="card-img-top" alt="Gallery 18">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery23.jpg') }}" class="card-img-top" alt="Gallery 19">
+                    <img src="{{ asset('/img/gallery23.jpg') }}" class="card-img-top" alt="Gallery 19">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery20.jpg') }}" class="card-img-top" alt="Gallery 20">
+                    <img src="{{ asset('/img/gallery20.jpg') }}" class="card-img-top" alt="Gallery 20">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery25.jpg') }}" class="card-img-top" alt="Gallery 21">
+                    <img src="{{ asset('/img/gallery25.jpg') }}" class="card-img-top" alt="Gallery 21">
                 </div>
             </div>
             {{-- <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/gallery15.jpg') }}" class="card-img-top" alt="Gallery 6">
+                    <img src="{{ asset('/img/gallery15.jpg') }}" class="card-img-top" alt="Gallery 6">
                 </div>
             </div> --}}
         </div>
@@ -141,37 +141,37 @@
         <div class="row g-4">
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/sertifikat1.jpg') }}" class="card-img-top" alt="Gallery 1">
+                    <img src="{{ asset('/img/sertifikat1.jpg') }}" class="card-img-top" alt="Gallery 1">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/sertifikat2.jpg') }}" class="card-img-top" alt="Gallery 1">
+                    <img src="{{ asset('/img/sertifikat2.jpg') }}" class="card-img-top" alt="Gallery 1">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/sertifikat3.jpg') }}" class="card-img-top" alt="Gallery 1">
+                    <img src="{{ asset('/img/sertifikat3.jpg') }}" class="card-img-top" alt="Gallery 1">
                 </div>
             </div>
             {{-- <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/sertifikat5.png') }}" class="card-img-top" alt="Gallery 1">
+                    <img src="{{ asset('/img/sertifikat5.png') }}" class="card-img-top" alt="Gallery 1">
                 </div>
             </div> --}}
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/sertifikat4.png') }}" class="card-img-top" alt="Gallery 1">
+                    <img src="{{ asset('/img/sertifikat4.png') }}" class="card-img-top" alt="Gallery 1">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/sertifikat6.png') }}" class="card-img-top" alt="Gallery 1">
+                    <img src="{{ asset('/img/sertifikat6.png') }}" class="card-img-top" alt="Gallery 1">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('fe/img/sertifikat7.png') }}" class="card-img-top" alt="Gallery 1">
+                    <img src="{{ asset('/img/sertifikat7.png') }}" class="card-img-top" alt="Gallery 1">
                 </div>
             </div>
         </div>

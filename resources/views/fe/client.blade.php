@@ -9,54 +9,54 @@
                 <div class="client-carousel-top">
                     <div class="scrolling-wrapper">
                         <div class="scrolling-content">
-                            <img src="fe/img/astra.png" alt="">
-                            <img src="fe/img/basf.png" alt="">
-                            <img src="fe/img/bukaka.png" alt="">
-                            <img src="fe/img/canopus.png" alt="">
-                            <img src="fe/img/dharma.png" alt="">
-                            <img src="fe/img/federal.png" alt="">
-                            <img src="fe/img/grc.png" alt="">
-                            <img src="fe/img/haldin.png" alt="">
-                            <img src="fe/img/jeil.png" alt="">
-                            <img src="fe/img/karya.png" alt=""h>
+                            <img src="/img/astra.png" alt="">
+                            <img src="/img/basf.png" alt="">
+                            <img src="/img/bukaka.png" alt="">
+                            <img src="/img/canopus.png" alt="">
+                            <img src="/img/dharma.png" alt="">
+                            <img src="/img/federal.png" alt="">
+                            <img src="/img/grc.png" alt="">
+                            <img src="/img/haldin.png" alt="">
+                            <img src="/img/jeil.png" alt="">
+                            <img src="/img/karya.png" alt=""h>
                             <!-- Duplicate for seamless scroll -->
-                            <img src="fe/img/astra.png" alt="">
-                            <img src="fe/img/basf.png" alt="">
-                            <img src="fe/img/bukaka.png" alt="">
-                            <img src="fe/img/canopus.png" alt="">
-                            <img src="fe/img/dharma.png" alt="">
-                            <img src="fe/img/federal.png" alt="">
-                            <img src="fe/img/grc.png" alt="">
-                            <img src="fe/img/haldin.png" alt="">
-                            <img src="fe/img/jeil.png" alt="">
-                            <img src="fe/img/karya.png" alt="">
+                            <img src="/img/astra.png" alt="">
+                            <img src="/img/basf.png" alt="">
+                            <img src="/img/bukaka.png" alt="">
+                            <img src="/img/canopus.png" alt="">
+                            <img src="/img/dharma.png" alt="">
+                            <img src="/img/federal.png" alt="">
+                            <img src="/img/grc.png" alt="">
+                            <img src="/img/haldin.png" alt="">
+                            <img src="/img/jeil.png" alt="">
+                            <img src="/img/karya.png" alt="">
                         </div>
                     </div>
                 </div>
                 <div class="client-carousel-bottom">
                     <div class="scrolling-wrapper">
                         <div class="scrolling-content">
-                            <img src="fe/img/kuala.png" alt="">
-                            <img src="fe/img/mada.png" alt="">
-                            <img src="fe/img/maxindo.png" alt="">
-                            <img src="fe/img/nantenergy.png" alt="">
-                            <img src="fe/img/nidec.png" alt="">
-                            <img src="fe/img/panca.png" alt="">
-                            <img src="fe/img/pic.png" alt="">
-                            <img src="fe/img/pongcodan.png" alt="">
-                            <img src="fe/img/sika.png" alt="">
-                            <img src="fe/img/trigraha.png" alt="">
+                            <img src="/img/kuala.png" alt="">
+                            <img src="/img/mada.png" alt="">
+                            <img src="/img/maxindo.png" alt="">
+                            <img src="/img/nantenergy.png" alt="">
+                            <img src="/img/nidec.png" alt="">
+                            <img src="/img/panca.png" alt="">
+                            <img src="/img/pic.png" alt="">
+                            <img src="/img/pongcodan.png" alt="">
+                            <img src="/img/sika.png" alt="">
+                            <img src="/img/trigraha.png" alt="">
                             <!-- Duplicate for seamless scroll -->
-                            <img src="fe/img/kuala.png" alt="">
-                            <img src="fe/img/mada.png" alt="">
-                            <img src="fe/img/maxindo.png" alt="">
-                            <img src="fe/img/nantenergy.png" alt="">
-                            <img src="fe/img/nidec.png" alt="">
-                            <img src="fe/img/panca.png" alt="">
-                            <img src="fe/img/pic.png" alt="">
-                            <img src="fe/img/pongcodan.png" alt="">
-                            <img src="fe/img/sika.png" alt="">
-                            <img src="fe/img/trigraha.png" alt="">
+                            <img src="/img/kuala.png" alt="">
+                            <img src="/img/mada.png" alt="">
+                            <img src="/img/maxindo.png" alt="">
+                            <img src="/img/nantenergy.png" alt="">
+                            <img src="/img/nidec.png" alt="">
+                            <img src="/img/panca.png" alt="">
+                            <img src="/img/pic.png" alt="">
+                            <img src="/img/pongcodan.png" alt="">
+                            <img src="/img/sika.png" alt="">
+                            <img src="/img/trigraha.png" alt="">
                         </div>
                     </div>
                 </div>

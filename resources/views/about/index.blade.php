@@ -53,7 +53,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5 d-flex flex-column align-items-center">
-                    <img src="fe/img/team.png" 
+                    <img src="/img/team.png" 
                         class="rounded wow zoomIn mb-4" 
                         data-wow-delay="0.9s"
                         style="width: 800px; max-width: 100%; height: auto; display: block;">

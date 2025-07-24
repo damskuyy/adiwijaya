@@ -9,7 +9,7 @@
     <meta content="Free HTML Templates" name="description">
 
     <!-- Favicon -->
-    <link href="fe/img/logo-adiwijaya.png" rel="icon">
+    <link href="/img/logo-adiwijaya.png" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -31,14 +31,14 @@
 
 
     <!-- Libraries Stylesheet -->
-    <link href="fe/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="fe/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="/lib/animate/animate.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="fe/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="fe/css/style.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -95,7 +95,7 @@
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
             <a href="/home" class="navbar-brand p-0">
-                <img src="{{ asset('fe/img/adiwijaya.png') }}" alt="" style="height: 90px;"/>
+                <img src="{{ asset('/img/adiwijaya.png') }}" alt="" style="height: 90px;"/>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="fa fa-bars"></span>
@@ -147,7 +147,7 @@
         <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="fe/img/carousel-1.jpg" alt="Image">
+                    <img class="w-100" src="/img/carousel-1.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creative & Innovative</h5>
@@ -158,7 +158,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="fe/img/carousel-2.jpg" alt="Image">
+                    <img class="w-100" src="/img/carousel-2.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creative & Innovative</h5>
@@ -259,7 +259,7 @@
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="fe/img/about.jpg" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="/img/about.jpg" style="object-fit: cover;">
                     </div>
                 </div>
             </div>
@@ -296,7 +296,7 @@
                 </div>
                 <div class="col-lg-4  wow zoomIn" data-wow-delay="0.9s" style="min-height: 350px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="fe/img/feature.jpg" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="/img/feature.jpg" style="object-fit: cover;">
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -547,7 +547,7 @@
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
                 <div class="testimonial-item bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                        <img class="img-fluid rounded" src="fe/img/testimonial-1.jpg" style="width: 60px; height: 60px;" >
+                        <img class="img-fluid rounded" src="/img/testimonial-1.jpg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Client Name</h4>
                             <small class="text-uppercase">Profession</small>
@@ -559,7 +559,7 @@
                 </div>
                 <div class="testimonial-item bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                        <img class="img-fluid rounded" src="fe/img/testimonial-2.jpg" style="width: 60px; height: 60px;" >
+                        <img class="img-fluid rounded" src="/img/testimonial-2.jpg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Client Name</h4>
                             <small class="text-uppercase">Profession</small>
@@ -571,7 +571,7 @@
                 </div>
                 <div class="testimonial-item bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                        <img class="img-fluid rounded" src="fe/img/testimonial-3.jpg" style="width: 60px; height: 60px;" >
+                        <img class="img-fluid rounded" src="/img/testimonial-3.jpg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Client Name</h4>
                             <small class="text-uppercase">Profession</small>
@@ -583,7 +583,7 @@
                 </div>
                 <div class="testimonial-item bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                        <img class="img-fluid rounded" src="fe/img/testimonial-4.jpg" style="width: 60px; height: 60px;" >
+                        <img class="img-fluid rounded" src="/img/testimonial-4.jpg" style="width: 60px; height: 60px;" >
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Client Name</h4>
                             <small class="text-uppercase">Profession</small>
@@ -610,7 +610,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/team-1.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/team-1.jpg" alt="">
                             <div class="team-social">
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
@@ -627,7 +627,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/team-2.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/team-2.jpg" alt="">
                             <div class="team-social">
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
@@ -644,7 +644,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/team-3.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/team-3.jpg" alt="">
                             <div class="team-social">
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
@@ -675,7 +675,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="fe/img/blog-1.jpg" alt="">
+                            <img class="img-fluid" src="/img/blog-1.jpg" alt="">
                             <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
                         </div>
                         <div class="p-4">
@@ -692,7 +692,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="fe/img/blog-2.jpg" alt="">
+                            <img class="img-fluid" src="/img/blog-2.jpg" alt="">
                             <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
                         </div>
                         <div class="p-4">
@@ -709,7 +709,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
-                            <img class="img-fluid" src="fe/img/blog-3.jpg" alt="">
+                            <img class="img-fluid" src="/img/blog-3.jpg" alt="">
                             <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
                         </div>
                         <div class="p-4">
@@ -734,15 +734,15 @@
         <div class="container py-5 mb-5">
             <div class="bg-white">
                 <div class="owl-carousel vendor-carousel">
-                    <img src="fe/img/vendor-1.jpg" alt="">
-                    <img src="fe/img/vendor-2.jpg" alt="">
-                    <img src="fe/img/vendor-3.jpg" alt="">
-                    <img src="fe/img/vendor-4.jpg" alt="">
-                    <img src="fe/img/vendor-5.jpg" alt="">
-                    <img src="fe/img/vendor-6.jpg" alt="">
-                    <img src="fe/img/vendor-7.jpg" alt="">
-                    <img src="fe/img/vendor-8.jpg" alt="">
-                    <img src="fe/img/vendor-9.jpg" alt="">
+                    <img src="/img/vendor-1.jpg" alt="">
+                    <img src="/img/vendor-2.jpg" alt="">
+                    <img src="/img/vendor-3.jpg" alt="">
+                    <img src="/img/vendor-4.jpg" alt="">
+                    <img src="/img/vendor-5.jpg" alt="">
+                    <img src="/img/vendor-6.jpg" alt="">
+                    <img src="/img/vendor-7.jpg" alt="">
+                    <img src="/img/vendor-8.jpg" alt="">
+                    <img src="/img/vendor-9.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -757,7 +757,7 @@
                 <div class="col-lg-4 col-md-6 footer-about">
                     <div class="d-flex flex-column align-items-center justify-content-center text-center h-100 bg-primary p-4">
                         <a href="/home" class="navbar-brand">
-                            <h1 class="m-0 text-white"><img src="{{ asset('fe/img/adiwijaya.png') }}" alt="" style="height: 65px;"/></h1>
+                            <h1 class="m-0 text-white"><img src="{{ asset('/img/adiwijaya.png') }}" alt="" style="height: 65px;"/></h1>
                         </a>
                         <p class="mt-3 mb-4">PT. Adiwijaya Mega Tama is engaged in metalworking, specifically machining, fabrication, and construction for the manufacture and repair of industrial machine components.</p>
                     </div>
@@ -796,12 +796,12 @@
                                 <h3 class="text-light mb-0">Project Gallery</h3>
                             </div>
                             <div class="d-flex flex-wrap gap-2 justify-content-start mini-gallery">
-                                <img src="{{ asset('fe/img/gallery1.png') }}" alt="vendor- 1" class="rounded" style="width: 90px; height: 60px; object-fit: cover;">
-                                <img src="{{ asset('fe/img/gallery3.png') }}" alt="vendor- 2" class="rounded" style="width: 90px; height: 60px; object-fit: cover;">
-                                <img src="{{ asset('fe/img/gallery4.png') }}" alt="vendor- 3" class="rounded" style="width: 90px; height: 60px; object-fit: cover;">
-                                <img src="{{ asset('fe/img/gallery15.jpg') }}" alt="vendor- 4" class="rounded" style="width: 90px; height: 60px; object-fit: cover;">
-                                <img src="{{ asset('fe/img/gallery9.png') }}" alt="vendor- 5" class="rounded" style="width: 90px; height: 60px; object-fit: cover;">
-                                <img src="{{ asset('fe/img/gallery10.png') }}" alt="vendor- 6" class="rounded" style="width: 90px; height: 60px; object-fit: cover;">
+                                <img src="{{ asset('/img/gallery1.png') }}" alt="vendor- 1" class="rounded" style="width: 90px; height: 60px; object-fit: cover;">
+                                <img src="{{ asset('/img/gallery3.png') }}" alt="vendor- 2" class="rounded" style="width: 90px; height: 60px; object-fit: cover;">
+                                <img src="{{ asset('/img/gallery4.png') }}" alt="vendor- 3" class="rounded" style="width: 90px; height: 60px; object-fit: cover;">
+                                <img src="{{ asset('/img/gallery15.jpg') }}" alt="vendor- 4" class="rounded" style="width: 90px; height: 60px; object-fit: cover;">
+                                <img src="{{ asset('/img/gallery9.png') }}" alt="vendor- 5" class="rounded" style="width: 90px; height: 60px; object-fit: cover;">
+                                <img src="{{ asset('/img/gallery10.png') }}" alt="vendor- 6" class="rounded" style="width: 90px; height: 60px; object-fit: cover;">
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5 ms-lg-n4">
@@ -845,14 +845,14 @@
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="fe/lib/wow/wow.min.js"></script>
-    <script src="fe/lib/easing/easing.min.js"></script>
-    <script src="fe/lib/waypoints/waypoints.min.js"></script>
-    <script src="fe/lib/counterup/counterup.min.js"></script>
-    <script src="fe/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="/lib/wow/wow.min.js"></script>
+    <script src="/lib/easing/easing.min.js"></script>
+    <script src="/lib/waypoints/waypoints.min.js"></script>
+    <script src="/lib/counterup/counterup.min.js"></script>
+    <script src="/lib/owlcarousel/owl.carousel.min.js"></script>
 
     <!-- Template Javascript -->
-    <script src="fe/js/main.js"></script>
+    <script src="/js/main.js"></script>
 </body>
 
 </html>

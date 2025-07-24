@@ -9,7 +9,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/lift-barang.png" alt="">
+                            <img class="img-fluid w-100" src="/img/lift-barang.png" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Lift Barang</h4>
@@ -20,7 +20,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/mixing-tank.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/mixing-tank.jpg" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Mixing tank</h4>
@@ -31,7 +31,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/mesin-oven.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/mesin-oven.jpg" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Mesin Oven</h4>
@@ -42,7 +42,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/roller-conveyor.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/roller-conveyor.jpg" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Roller Conveyor</h4>
@@ -53,7 +53,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/rak-finish.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/rak-finish.jpg" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Rak Finish Good</h4>
@@ -64,7 +64,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/pan-mixer.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/pan-mixer.jpg" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Pan Mixer</h4>
@@ -75,7 +75,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/cabin-robot.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/cabin-robot.jpg" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Cabin Robot</h4>
@@ -86,7 +86,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/gudang.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/gudang.jpg" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Warehouse Construction</h4>
@@ -97,7 +97,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/frame-strong.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/frame-strong.jpg" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Frame Strong Pump</h4>
@@ -108,7 +108,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/bak-penampung.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/bak-penampung.jpg" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Storage Tank</h4>
@@ -119,7 +119,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/j-ring.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/j-ring.jpg" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">J - Ring</h4>
@@ -130,7 +130,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/stainless-table.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/stainless-table.jpg" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Stainless Table</h4>
@@ -141,7 +141,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/wastafel-stainless.jpeg" alt="">
+                            <img class="img-fluid w-100" src="/img/wastafel-stainless.jpeg" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Wastafel Stainless</h4>
@@ -152,7 +152,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="fe/img/tankfarm.jpg" alt="">
+                            <img class="img-fluid w-100" src="/img/tankfarm.jpg" alt="">
                         </div>
                         <div class="text-center py-4">
                             <h4 class="text-primary">Tank Farm Liquid</h4>
