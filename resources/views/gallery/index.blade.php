@@ -78,7 +78,7 @@
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('/img/gallery13.jpg') }}" class="card-img-top" alt="Gallery 12">
+                    <img src="{{ asset('/img/gallery20.jpg') }}" class="card-img-top" alt="Gallery 12">
                 </div>
             </div>
             <div class="col-md-4">
@@ -108,7 +108,7 @@
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('/img/gallery22.jpg') }}" class="card-img-top" alt="Gallery 18">
+                    <img src="{{ asset('/img/gallery26.jpg') }}" class="card-img-top" alt="Gallery 18">
                 </div>
             </div>
             <div class="col-md-4">
@@ -118,7 +118,7 @@
             </div>
             <div class="col-md-4">
                 <div class="card shadow-sm">
-                    <img src="{{ asset('/img/gallery20.jpg') }}" class="card-img-top" alt="Gallery 20">
+                    <img src="{{ asset('/img/gallery22.jpg') }}" class="card-img-top" alt="Gallery 20">
                 </div>
             </div>
             <div class="col-md-4">
