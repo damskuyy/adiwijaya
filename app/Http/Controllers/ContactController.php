@@ -25,7 +25,7 @@ class ContactController extends Controller
         ]);
 
         Mail::send([], [], function ($message) use ($data) {
-            $message->to('damarnugroho199@gmail.com')
+            $message->to('adiwijayamegatama@gmail.com')
                 ->subject($data['subject'])
                 ->html(
                     "Nama: {$data['name']}<br>Email: {$data['email']}<br><br>Pesan:<br>{$data['message']}"
